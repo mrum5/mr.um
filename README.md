@@ -6,7 +6,7 @@
 ## Installation :
  
 * `apt update` 
-* `apt upgrade` 
+* `apt upgrade -y` 
 * `apt install git -y` 
 * `git clone https://github.com/darknethaxor/haxor.git` 
 * `cd haxor` 
