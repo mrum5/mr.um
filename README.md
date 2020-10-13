@@ -2,7 +2,9 @@
 </a> 
 </p> 
 <br> 
-## Support: kali-linux,kali-nethunter & termux
+## Support:
+
+kali-linux,kali-nethunter & termux
 <br>
 ## Installation :
  
