@@ -9,6 +9,8 @@ Kali-linux, Kali-nethunter & Termux
 <br>
 ## Installation :
  
+Note: You must be clone in home directory
+ 
 * `apt update` 
 * `apt upgrade -y` 
 * `apt install git -y`
