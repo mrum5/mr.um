@@ -5,7 +5,7 @@
 
 ## Support:
 
-kali-linux,kali-nethunter & termux
+Kali-linux, Kali-nethunter & Termux
 <br>
 ## Installation :
  
