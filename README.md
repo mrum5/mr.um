@@ -2,12 +2,14 @@
 </a> 
 </p> 
 <br> 
-
+## Support: kali-linux,kali-nethunter & termux
+<br>
 ## Installation :
  
 * `apt update` 
 * `apt upgrade -y` 
-* `apt install git -y` 
+* `apt install git -y`
+* `cd $HOME`
 * `git clone https://github.com/darknethaxor/haxor.git` 
 * `cd haxor` 
 * `chmod +x setup.sh` 
