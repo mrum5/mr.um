@@ -5,11 +5,11 @@
 
 ## Support:
 
-Kali-linux, Kali-nethunter & Termux
+Kali-linux, Kali-nethunter, Parrot & Termux
 <br>
 ## Installation :
  
-Note: You must be clone in home directory
+Note: Kali-linux & Parrot OS user must be use root terminal.
  
 * `apt update` 
 * `apt upgrade -y` 
