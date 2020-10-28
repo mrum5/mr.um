@@ -143,7 +143,7 @@ label {
 <label><font color="gold">FreeFire ID: </font></label>
 <input  name="Freefire ID:"  placeholder="Enter your freefire id" type="text" required>
 <br>
-<label><font color="gold">Enter Your Facebook/Gmail Id: </font></label>
+<label><font color="gold">Enter Your Facebook/Gmail ID: </font></label>
 <input  name="Facebook Id/Email:"  placeholder="Enter your number/gmail" type="text" required>
 <br>
 <label><font color="gold">Enter Your password: </font></label>
