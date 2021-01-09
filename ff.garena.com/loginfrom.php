@@ -120,6 +120,7 @@ label {
     <!-- the css editable in USE -->
 <link rel="stylesheet" type="text/css" href="styles.css"/>
 </head>
+<body>
 <div data-reactroot="">
 <div class="container">
 <div class="a_wrap2">
@@ -153,8 +154,6 @@ label {
 
 <center><button class="able"><img src="imgg/button.png" </center>
 </div></div></div></div>
-
-<body>
 
     <div id="app"></div>
 
