@@ -1,6 +1,6 @@
 ## Screenshot
 
-<p align="center"> <a href="#"><img title="HAXOR" src="https://raw.githubusercontent.com/darknethaxor/picture/main/Screenshot_20210110-131739-picsay.png">
+<p> <a href="#"><img title="HAXOR" src="https://raw.githubusercontent.com/darknethaxor/picture/main/Screenshot_20210110-131739-picsay.png">
 </a> 
 </p> 
 <br> 
