@@ -1,12 +1,5 @@
 <p align="center"><a href="https://github.com/darknethaxor/"><img title="HAXOR" src="https://1.bp.blogspot.com/-ui9y_7kjZQQ/X65oQ5mMZ4I/AAAAAAAAADA/E7NzB1nhbpQn1J1mNGOX3Zx8WtJSrP5AwCLcBGAsYHQ/s320/20201113_170028.png" height="150" width="150"></a></p><br>
 
-## Screenshot
-
-<p> <a href="#"><img title="HAXOR" src="https://raw.githubusercontent.com/darknethaxor/picture/main/Screenshot_20210110-131739-picsay.png">
-</a> 
-</p> 
-<br> 
-
 ## Support:
 
 Kali-linux, Kali-nethunter, Parrot & Termux
@@ -26,3 +19,9 @@ Note: Kali-linux & Parrot OS user must be use root terminal.
 
 ## For Run : 
 * `haxor`
+
+## Screenshot
+
+<p> <a href="#"><img title="HAXOR" src="https://raw.githubusercontent.com/darknethaxor/picture/main/Screenshot_20210110-131739-picsay.png">
+</a> 
+</p> 
